@@ -1,0 +1,1988 @@
+healthDa
+LTLAC,GHCG,generalHealth,Observation
+E06000001,-8,Does not apply,0
+E06000001,1,Very good health,42.8
+E06000001,2,Good health,33.7
+E06000001,3,Fair health,15.6
+E06000001,4,Bad health,6
+E06000001,5,Very bad health,1.9
+E06000002,-8,Does not apply,0
+E06000002,1,Very good health,43.8
+E06000002,2,Good health,33.3
+E06000002,3,Fair health,14.9
+E06000002,4,Bad health,6.1
+E06000002,5,Very bad health,1.9
+E06000003,-8,Does not apply,0
+E06000003,1,Very good health,44.1
+E06000003,2,Good health,34
+E06000003,3,Fair health,14.9
+E06000003,4,Bad health,5.4
+E06000003,5,Very bad health,1.7
+E06000004,-8,Does not apply,0
+E06000004,1,Very good health,45.7
+E06000004,2,Good health,33.7
+E06000004,3,Fair health,14.2
+E06000004,4,Bad health,4.9
+E06000004,5,Very bad health,1.5
+E06000005,-8,Does not apply,0
+E06000005,1,Very good health,45.5
+E06000005,2,Good health,34.8
+E06000005,3,Fair health,14
+E06000005,4,Bad health,4.5
+E06000005,5,Very bad health,1.2
+E06000006,-8,Does not apply,0
+E06000006,1,Very good health,45.2
+E06000006,2,Good health,32.5
+E06000006,3,Fair health,14.4
+E06000006,4,Bad health,6
+E06000006,5,Very bad health,1.9
+E06000007,-8,Does not apply,0
+E06000007,1,Very good health,50
+E06000007,2,Good health,32.8
+E06000007,3,Fair health,12.2
+E06000007,4,Bad health,3.9
+E06000007,5,Very bad health,1.1
+E06000008,-8,Does not apply,0
+E06000008,1,Very good health,43.6
+E06000008,2,Good health,33.5
+E06000008,3,Fair health,15.2
+E06000008,4,Bad health,5.9
+E06000008,5,Very bad health,1.9
+E06000009,-8,Does not apply,0
+E06000009,1,Very good health,40.9
+E06000009,2,Good health,33.7
+E06000009,3,Fair health,16.6
+E06000009,4,Bad health,6.7
+E06000009,5,Very bad health,2.1
+E06000010,-8,Does not apply,0
+E06000010,1,Very good health,40.3
+E06000010,2,Good health,35.5
+E06000010,3,Fair health,16.5
+E06000010,4,Bad health,5.9
+E06000010,5,Very bad health,1.8
+E06000011,-8,Does not apply,0
+E06000011,1,Very good health,48.4
+E06000011,2,Good health,34.5
+E06000011,3,Fair health,12.5
+E06000011,4,Bad health,3.5
+E06000011,5,Very bad health,1.1
+E06000012,-8,Does not apply,0
+E06000012,1,Very good health,43.1
+E06000012,2,Good health,35.4
+E06000012,3,Fair health,15.2
+E06000012,4,Bad health,4.9
+E06000012,5,Very bad health,1.4
+E06000013,-8,Does not apply,0
+E06000013,1,Very good health,43.9
+E06000013,2,Good health,35.9
+E06000013,3,Fair health,14.5
+E06000013,4,Bad health,4.5
+E06000013,5,Very bad health,1.2
+E06000014,-8,Does not apply,0
+E06000014,1,Very good health,48.5
+E06000014,2,Good health,35
+E06000014,3,Fair health,12.2
+E06000014,4,Bad health,3.4
+E06000014,5,Very bad health,0.9
+E06000015,-8,Does not apply,0
+E06000015,1,Very good health,43.2
+E06000015,2,Good health,35.5
+E06000015,3,Fair health,14.9
+E06000015,4,Bad health,4.9
+E06000015,5,Very bad health,1.5
+E06000016,-8,Does not apply,0
+E06000016,1,Very good health,42.8
+E06000016,2,Good health,34.7
+E06000016,3,Fair health,15.6
+E06000016,4,Bad health,5.2
+E06000016,5,Very bad health,1.6
+E06000017,-8,Does not apply,0
+E06000017,1,Very good health,52.6
+E06000017,2,Good health,33.6
+E06000017,3,Fair health,10.7
+E06000017,4,Bad health,2.6
+E06000017,5,Very bad health,0.6
+E06000018,-8,Does not apply,0
+E06000018,1,Very good health,41.7
+E06000018,2,Good health,34.2
+E06000018,3,Fair health,16.1
+E06000018,4,Bad health,6
+E06000018,5,Very bad health,2
+E06000019,-8,Does not apply,0
+E06000019,1,Very good health,48.7
+E06000019,2,Good health,34.3
+E06000019,3,Fair health,12.3
+E06000019,4,Bad health,3.6
+E06000019,5,Very bad health,1
+E06000020,-8,Does not apply,0
+E06000020,1,Very good health,44.2
+E06000020,2,Good health,34.7
+E06000020,3,Fair health,14.6
+E06000020,4,Bad health,5
+E06000020,5,Very bad health,1.5
+E06000021,-8,Does not apply,0
+E06000021,1,Very good health,40.2
+E06000021,2,Good health,35.9
+E06000021,3,Fair health,15.9
+E06000021,4,Bad health,6.1
+E06000021,5,Very bad health,1.9
+E06000022,-8,Does not apply,0
+E06000022,1,Very good health,51.4
+E06000022,2,Good health,33.1
+E06000022,3,Fair health,11.3
+E06000022,4,Bad health,3.2
+E06000022,5,Very bad health,0.9
+E06000023,-8,Does not apply,0
+E06000023,1,Very good health,46.7
+E06000023,2,Good health,33.5
+E06000023,3,Fair health,13.6
+E06000023,4,Bad health,4.8
+E06000023,5,Very bad health,1.5
+E06000024,-8,Does not apply,0
+E06000024,1,Very good health,49.4
+E06000024,2,Good health,33.6
+E06000024,3,Fair health,12.3
+E06000024,4,Bad health,3.8
+E06000024,5,Very bad health,1.1
+E06000025,-8,Does not apply,0
+E06000025,1,Very good health,48.9
+E06000025,2,Good health,34.6
+E06000025,3,Fair health,12.1
+E06000025,4,Bad health,3.3
+E06000025,5,Very bad health,0.9
+E06000026,-8,Does not apply,0
+E06000026,1,Very good health,44.8
+E06000026,2,Good health,34.1
+E06000026,3,Fair health,14.4
+E06000026,4,Bad health,5.1
+E06000026,5,Very bad health,1.5
+E06000027,-8,Does not apply,0
+E06000027,1,Very good health,45.4
+E06000027,2,Good health,33.7
+E06000027,3,Fair health,14.4
+E06000027,4,Bad health,5
+E06000027,5,Very bad health,1.4
+E06000030,-8,Does not apply,0
+E06000030,1,Very good health,46.2
+E06000030,2,Good health,35.7
+E06000030,3,Fair health,13.2
+E06000030,4,Bad health,3.8
+E06000030,5,Very bad health,1
+E06000031,-8,Does not apply,0
+E06000031,1,Very good health,42.3
+E06000031,2,Good health,37
+E06000031,3,Fair health,14.8
+E06000031,4,Bad health,4.7
+E06000031,5,Very bad health,1.3
+E06000032,-8,Does not apply,0
+E06000032,1,Very good health,43.1
+E06000032,2,Good health,36
+E06000032,3,Fair health,14.8
+E06000032,4,Bad health,4.7
+E06000032,5,Very bad health,1.5
+E06000033,-8,Does not apply,0
+E06000033,1,Very good health,46.2
+E06000033,2,Good health,34.8
+E06000033,3,Fair health,13.4
+E06000033,4,Bad health,4.3
+E06000033,5,Very bad health,1.3
+E06000034,-8,Does not apply,0
+E06000034,1,Very good health,46.4
+E06000034,2,Good health,34.7
+E06000034,3,Fair health,13.6
+E06000034,4,Bad health,4.1
+E06000034,5,Very bad health,1.2
+E06000035,-8,Does not apply,0
+E06000035,1,Very good health,45.2
+E06000035,2,Good health,35.4
+E06000035,3,Fair health,13.9
+E06000035,4,Bad health,4.4
+E06000035,5,Very bad health,1.2
+E06000036,-8,Does not apply,0
+E06000036,1,Very good health,50.6
+E06000036,2,Good health,34.8
+E06000036,3,Fair health,10.9
+E06000036,4,Bad health,2.9
+E06000036,5,Very bad health,0.8
+E06000037,-8,Does not apply,0
+E06000037,1,Very good health,50.9
+E06000037,2,Good health,34.8
+E06000037,3,Fair health,10.9
+E06000037,4,Bad health,2.7
+E06000037,5,Very bad health,0.7
+E06000038,-8,Does not apply,0
+E06000038,1,Very good health,46.8
+E06000038,2,Good health,35.6
+E06000038,3,Fair health,12.9
+E06000038,4,Bad health,3.7
+E06000038,5,Very bad health,1
+E06000039,-8,Does not apply,0
+E06000039,1,Very good health,44.7
+E06000039,2,Good health,35.5
+E06000039,3,Fair health,14.3
+E06000039,4,Bad health,4.3
+E06000039,5,Very bad health,1.2
+E06000040,-8,Does not apply,0
+E06000040,1,Very good health,55.2
+E06000040,2,Good health,32.2
+E06000040,3,Fair health,9.5
+E06000040,4,Bad health,2.4
+E06000040,5,Very bad health,0.7
+E06000041,-8,Does not apply,0
+E06000041,1,Very good health,53.5
+E06000041,2,Good health,34
+E06000041,3,Fair health,9.7
+E06000041,4,Bad health,2.2
+E06000041,5,Very bad health,0.6
+E06000042,-8,Does not apply,0
+E06000042,1,Very good health,47.4
+E06000042,2,Good health,34.8
+E06000042,3,Fair health,12.8
+E06000042,4,Bad health,3.8
+E06000042,5,Very bad health,1.1
+E06000043,-8,Does not apply,0
+E06000043,1,Very good health,48.7
+E06000043,2,Good health,33.1
+E06000043,3,Fair health,12.6
+E06000043,4,Bad health,4.3
+E06000043,5,Very bad health,1.3
+E06000044,-8,Does not apply,0
+E06000044,1,Very good health,44.4
+E06000044,2,Good health,35.5
+E06000044,3,Fair health,14.3
+E06000044,4,Bad health,4.4
+E06000044,5,Very bad health,1.3
+E06000045,-8,Does not apply,0
+E06000045,1,Very good health,43.9
+E06000045,2,Good health,35.9
+E06000045,3,Fair health,14.2
+E06000045,4,Bad health,4.6
+E06000045,5,Very bad health,1.4
+E06000046,-8,Does not apply,0
+E06000046,1,Very good health,43.8
+E06000046,2,Good health,36.1
+E06000046,3,Fair health,14.3
+E06000046,4,Bad health,4.5
+E06000046,5,Very bad health,1.3
+E06000047,-8,Does not apply,0
+E06000047,1,Very good health,43.7
+E06000047,2,Good health,33.9
+E06000047,3,Fair health,15.2
+E06000047,4,Bad health,5.6
+E06000047,5,Very bad health,1.7
+E06000049,-8,Does not apply,0
+E06000049,1,Very good health,51.3
+E06000049,2,Good health,32.9
+E06000049,3,Fair health,11.4
+E06000049,4,Bad health,3.4
+E06000049,5,Very bad health,1
+E06000050,-8,Does not apply,0
+E06000050,1,Very good health,49.6
+E06000050,2,Good health,33.1
+E06000050,3,Fair health,12.2
+E06000050,4,Bad health,3.9
+E06000050,5,Very bad health,1.1
+E06000051,-8,Does not apply,0
+E06000051,1,Very good health,49.6
+E06000051,2,Good health,33.9
+E06000051,3,Fair health,12.1
+E06000051,4,Bad health,3.5
+E06000051,5,Very bad health,1
+E06000052,-8,Does not apply,0
+E06000052,1,Very good health,48.3
+E06000052,2,Good health,32.9
+E06000052,3,Fair health,13.2
+E06000052,4,Bad health,4.3
+E06000052,5,Very bad health,1.3
+E06000053,-8,Does not apply,0
+E06000053,1,Very good health,56.6
+E06000053,2,Good health,31
+E06000053,3,Fair health,9.1
+E06000053,4,Bad health,2.5
+E06000053,5,Very bad health,0.8
+E06000054,-8,Does not apply,0
+E06000054,1,Very good health,50.5
+E06000054,2,Good health,34
+E06000054,3,Fair health,11.6
+E06000054,4,Bad health,3.2
+E06000054,5,Very bad health,0.8
+E06000055,-8,Does not apply,0
+E06000055,1,Very good health,46.9
+E06000055,2,Good health,35.7
+E06000055,3,Fair health,12.6
+E06000055,4,Bad health,3.7
+E06000055,5,Very bad health,1
+E06000056,-8,Does not apply,0
+E06000056,1,Very good health,49.4
+E06000056,2,Good health,34.9
+E06000056,3,Fair health,11.7
+E06000056,4,Bad health,3.1
+E06000056,5,Very bad health,0.9
+E06000057,-8,Does not apply,0
+E06000057,1,Very good health,46.8
+E06000057,2,Good health,33.8
+E06000057,3,Fair health,13.9
+E06000057,4,Bad health,4.3
+E06000057,5,Very bad health,1.2
+E06000058,-8,Does not apply,0
+E06000058,1,Very good health,48.4
+E06000058,2,Good health,34.1
+E06000058,3,Fair health,12.6
+E06000058,4,Bad health,3.9
+E06000058,5,Very bad health,1.1
+E06000059,-8,Does not apply,0
+E06000059,1,Very good health,49.2
+E06000059,2,Good health,34.5
+E06000059,3,Fair health,12
+E06000059,4,Bad health,3.3
+E06000059,5,Very bad health,0.9
+E06000060,-8,Does not apply,0
+E06000060,1,Very good health,52.5
+E06000060,2,Good health,33.7
+E06000060,3,Fair health,10.5
+E06000060,4,Bad health,2.6
+E06000060,5,Very bad health,0.7
+E06000061,-8,Does not apply,0
+E06000061,1,Very good health,45.1
+E06000061,2,Good health,36.2
+E06000061,3,Fair health,13.6
+E06000061,4,Bad health,4
+E06000061,5,Very bad health,1.1
+E06000062,-8,Does not apply,0
+E06000062,1,Very good health,47.6
+E06000062,2,Good health,35.6
+E06000062,3,Fair health,12.3
+E06000062,4,Bad health,3.5
+E06000062,5,Very bad health,0.9
+E07000008,-8,Does not apply,0
+E07000008,1,Very good health,50.7
+E07000008,2,Good health,33.2
+E07000008,3,Fair health,11.9
+E07000008,4,Bad health,3.3
+E07000008,5,Very bad health,1
+E07000009,-8,Does not apply,0
+E07000009,1,Very good health,48.8
+E07000009,2,Good health,35.2
+E07000009,3,Fair health,12.1
+E07000009,4,Bad health,3.1
+E07000009,5,Very bad health,0.8
+E07000010,-8,Does not apply,0
+E07000010,1,Very good health,41.5
+E07000010,2,Good health,37.5
+E07000010,3,Fair health,15
+E07000010,4,Bad health,4.7
+E07000010,5,Very bad health,1.3
+E07000011,-8,Does not apply,0
+E07000011,1,Very good health,48.1
+E07000011,2,Good health,35.7
+E07000011,3,Fair health,12
+E07000011,4,Bad health,3.3
+E07000011,5,Very bad health,0.9
+E07000012,-8,Does not apply,0
+E07000012,1,Very good health,51.9
+E07000012,2,Good health,34
+E07000012,3,Fair health,10.7
+E07000012,4,Bad health,2.6
+E07000012,5,Very bad health,0.8
+E07000026,-8,Does not apply,0
+E07000026,1,Very good health,47.7
+E07000026,2,Good health,33.5
+E07000026,3,Fair health,13.5
+E07000026,4,Bad health,4.2
+E07000026,5,Very bad health,1.2
+E07000027,-8,Does not apply,0
+E07000027,1,Very good health,44.3
+E07000027,2,Good health,34.4
+E07000027,3,Fair health,14.4
+E07000027,4,Bad health,5.4
+E07000027,5,Very bad health,1.5
+E07000028,-8,Does not apply,0
+E07000028,1,Very good health,46.7
+E07000028,2,Good health,34.4
+E07000028,3,Fair health,13.4
+E07000028,4,Bad health,4.3
+E07000028,5,Very bad health,1.2
+E07000029,-8,Does not apply,0
+E07000029,1,Very good health,46.8
+E07000029,2,Good health,32.6
+E07000029,3,Fair health,14.3
+E07000029,4,Bad health,4.9
+E07000029,5,Very bad health,1.4
+E07000030,-8,Does not apply,0
+E07000030,1,Very good health,51
+E07000030,2,Good health,33.8
+E07000030,3,Fair health,11.4
+E07000030,4,Bad health,3
+E07000030,5,Very bad health,0.8
+E07000031,-8,Does not apply,0
+E07000031,1,Very good health,52.6
+E07000031,2,Good health,33.2
+E07000031,3,Fair health,10.7
+E07000031,4,Bad health,2.8
+E07000031,5,Very bad health,0.8
+E07000032,-8,Does not apply,0
+E07000032,1,Very good health,46.2
+E07000032,2,Good health,35
+E07000032,3,Fair health,13.6
+E07000032,4,Bad health,4.1
+E07000032,5,Very bad health,1.1
+E07000033,-8,Does not apply,0
+E07000033,1,Very good health,42.4
+E07000033,2,Good health,34.2
+E07000033,3,Fair health,15.8
+E07000033,4,Bad health,5.9
+E07000033,5,Very bad health,1.7
+E07000034,-8,Does not apply,0
+E07000034,1,Very good health,42.7
+E07000034,2,Good health,34.6
+E07000034,3,Fair health,15.8
+E07000034,4,Bad health,5.4
+E07000034,5,Very bad health,1.5
+E07000035,-8,Does not apply,0
+E07000035,1,Very good health,52.2
+E07000035,2,Good health,32.7
+E07000035,3,Fair health,11.3
+E07000035,4,Bad health,3
+E07000035,5,Very bad health,0.8
+E07000036,-8,Does not apply,0
+E07000036,1,Very good health,45.1
+E07000036,2,Good health,35.2
+E07000036,3,Fair health,14.2
+E07000036,4,Bad health,4.3
+E07000036,5,Very bad health,1.2
+E07000037,-8,Does not apply,0
+E07000037,1,Very good health,49.2
+E07000037,2,Good health,33.6
+E07000037,3,Fair health,12.5
+E07000037,4,Bad health,3.6
+E07000037,5,Very bad health,1
+E07000038,-8,Does not apply,0
+E07000038,1,Very good health,46.3
+E07000038,2,Good health,33.8
+E07000038,3,Fair health,14.1
+E07000038,4,Bad health,4.6
+E07000038,5,Very bad health,1.3
+E07000039,-8,Does not apply,0
+E07000039,1,Very good health,47.6
+E07000039,2,Good health,34.7
+E07000039,3,Fair health,13
+E07000039,4,Bad health,3.7
+E07000039,5,Very bad health,1
+E07000040,-8,Does not apply,0
+E07000040,1,Very good health,50.9
+E07000040,2,Good health,33.8
+E07000040,3,Fair health,11.3
+E07000040,4,Bad health,3.2
+E07000040,5,Very bad health,0.8
+E07000041,-8,Does not apply,0
+E07000041,1,Very good health,48.8
+E07000041,2,Good health,33.5
+E07000041,3,Fair health,12.6
+E07000041,4,Bad health,4
+E07000041,5,Very bad health,1.2
+E07000042,-8,Does not apply,0
+E07000042,1,Very good health,48.9
+E07000042,2,Good health,34.5
+E07000042,3,Fair health,12.2
+E07000042,4,Bad health,3.4
+E07000042,5,Very bad health,1
+E07000043,-8,Does not apply,0
+E07000043,1,Very good health,49.7
+E07000043,2,Good health,33
+E07000043,3,Fair health,12.4
+E07000043,4,Bad health,3.9
+E07000043,5,Very bad health,1.1
+E07000044,-8,Does not apply,0
+E07000044,1,Very good health,53.4
+E07000044,2,Good health,31.5
+E07000044,3,Fair health,10.8
+E07000044,4,Bad health,3.3
+E07000044,5,Very bad health,1
+E07000045,-8,Does not apply,0
+E07000045,1,Very good health,49.1
+E07000045,2,Good health,33.9
+E07000045,3,Fair health,12.3
+E07000045,4,Bad health,3.7
+E07000045,5,Very bad health,1
+E07000046,-8,Does not apply,0
+E07000046,1,Very good health,48
+E07000046,2,Good health,33.7
+E07000046,3,Fair health,13.2
+E07000046,4,Bad health,4.1
+E07000046,5,Very bad health,1.1
+E07000047,-8,Does not apply,0
+E07000047,1,Very good health,49.6
+E07000047,2,Good health,33.4
+E07000047,3,Fair health,12.4
+E07000047,4,Bad health,3.6
+E07000047,5,Very bad health,1
+E07000061,-8,Does not apply,0
+E07000061,1,Very good health,45
+E07000061,2,Good health,35.2
+E07000061,3,Fair health,14
+E07000061,4,Bad health,4.5
+E07000061,5,Very bad health,1.3
+E07000062,-8,Does not apply,0
+E07000062,1,Very good health,42.5
+E07000062,2,Good health,35.1
+E07000062,3,Fair health,15.3
+E07000062,4,Bad health,5.4
+E07000062,5,Very bad health,1.7
+E07000063,-8,Does not apply,0
+E07000063,1,Very good health,48.4
+E07000063,2,Good health,34.2
+E07000063,3,Fair health,12.6
+E07000063,4,Bad health,3.8
+E07000063,5,Very bad health,1
+E07000064,-8,Does not apply,0
+E07000064,1,Very good health,47.6
+E07000064,2,Good health,34.7
+E07000064,3,Fair health,12.8
+E07000064,4,Bad health,3.8
+E07000064,5,Very bad health,1
+E07000065,-8,Does not apply,0
+E07000065,1,Very good health,51.4
+E07000065,2,Good health,33.8
+E07000065,3,Fair health,11
+E07000065,4,Bad health,3
+E07000065,5,Very bad health,0.8
+E07000066,-8,Does not apply,0
+E07000066,1,Very good health,46.5
+E07000066,2,Good health,35
+E07000066,3,Fair health,13.1
+E07000066,4,Bad health,4.1
+E07000066,5,Very bad health,1.3
+E07000067,-8,Does not apply,0
+E07000067,1,Very good health,47.4
+E07000067,2,Good health,35.7
+E07000067,3,Fair health,12.5
+E07000067,4,Bad health,3.4
+E07000067,5,Very bad health,0.9
+E07000068,-8,Does not apply,0
+E07000068,1,Very good health,54.3
+E07000068,2,Good health,31.9
+E07000068,3,Fair health,10.2
+E07000068,4,Bad health,2.8
+E07000068,5,Very bad health,0.9
+E07000069,-8,Does not apply,0
+E07000069,1,Very good health,48.1
+E07000069,2,Good health,34.7
+E07000069,3,Fair health,12.4
+E07000069,4,Bad health,3.8
+E07000069,5,Very bad health,1.1
+E07000070,-8,Does not apply,0
+E07000070,1,Very good health,51.2
+E07000070,2,Good health,34.1
+E07000070,3,Fair health,11.1
+E07000070,4,Bad health,2.8
+E07000070,5,Very bad health,0.8
+E07000071,-8,Does not apply,0
+E07000071,1,Very good health,47.7
+E07000071,2,Good health,35.5
+E07000071,3,Fair health,12.4
+E07000071,4,Bad health,3.4
+E07000071,5,Very bad health,1
+E07000072,-8,Does not apply,0
+E07000072,1,Very good health,51.8
+E07000072,2,Good health,33
+E07000072,3,Fair health,11.1
+E07000072,4,Bad health,3.1
+E07000072,5,Very bad health,1
+E07000073,-8,Does not apply,0
+E07000073,1,Very good health,44.3
+E07000073,2,Good health,35.5
+E07000073,3,Fair health,14.4
+E07000073,4,Bad health,4.5
+E07000073,5,Very bad health,1.3
+E07000074,-8,Does not apply,0
+E07000074,1,Very good health,49.3
+E07000074,2,Good health,34.6
+E07000074,3,Fair health,11.8
+E07000074,4,Bad health,3.3
+E07000074,5,Very bad health,0.9
+E07000075,-8,Does not apply,0
+E07000075,1,Very good health,50.7
+E07000075,2,Good health,34.1
+E07000075,3,Fair health,11.3
+E07000075,4,Bad health,3
+E07000075,5,Very bad health,0.8
+E07000076,-8,Does not apply,0
+E07000076,1,Very good health,43.5
+E07000076,2,Good health,35.2
+E07000076,3,Fair health,14.7
+E07000076,4,Bad health,5.1
+E07000076,5,Very bad health,1.5
+E07000077,-8,Does not apply,0
+E07000077,1,Very good health,54.1
+E07000077,2,Good health,32.9
+E07000077,3,Fair health,9.9
+E07000077,4,Bad health,2.4
+E07000077,5,Very bad health,0.7
+E07000078,-8,Does not apply,0
+E07000078,1,Very good health,50.6
+E07000078,2,Good health,33.8
+E07000078,3,Fair health,11.6
+E07000078,4,Bad health,3.1
+E07000078,5,Very bad health,0.9
+E07000079,-8,Does not apply,0
+E07000079,1,Very good health,53.6
+E07000079,2,Good health,33
+E07000079,3,Fair health,10.2
+E07000079,4,Bad health,2.6
+E07000079,5,Very bad health,0.7
+E07000080,-8,Does not apply,0
+E07000080,1,Very good health,47.2
+E07000080,2,Good health,35
+E07000080,3,Fair health,12.8
+E07000080,4,Bad health,3.8
+E07000080,5,Very bad health,1.1
+E07000081,-8,Does not apply,0
+E07000081,1,Very good health,44.9
+E07000081,2,Good health,35.9
+E07000081,3,Fair health,13.8
+E07000081,4,Bad health,4.2
+E07000081,5,Very bad health,1.1
+E07000082,-8,Does not apply,0
+E07000082,1,Very good health,50.4
+E07000082,2,Good health,34.2
+E07000082,3,Fair health,11.6
+E07000082,4,Bad health,3
+E07000082,5,Very bad health,0.8
+E07000083,-8,Does not apply,0
+E07000083,1,Very good health,50.6
+E07000083,2,Good health,34.2
+E07000083,3,Fair health,11.4
+E07000083,4,Bad health,2.9
+E07000083,5,Very bad health,0.8
+E07000084,-8,Does not apply,0
+E07000084,1,Very good health,49
+E07000084,2,Good health,35.4
+E07000084,3,Fair health,11.7
+E07000084,4,Bad health,3.1
+E07000084,5,Very bad health,0.8
+E07000085,-8,Does not apply,0
+E07000085,1,Very good health,52.3
+E07000085,2,Good health,33.9
+E07000085,3,Fair health,10.5
+E07000085,4,Bad health,2.6
+E07000085,5,Very bad health,0.6
+E07000086,-8,Does not apply,0
+E07000086,1,Very good health,49.4
+E07000086,2,Good health,35.1
+E07000086,3,Fair health,11.7
+E07000086,4,Bad health,3
+E07000086,5,Very bad health,0.8
+E07000087,-8,Does not apply,0
+E07000087,1,Very good health,50.8
+E07000087,2,Good health,34.7
+E07000087,3,Fair health,11
+E07000087,4,Bad health,2.8
+E07000087,5,Very bad health,0.7
+E07000088,-8,Does not apply,0
+E07000088,1,Very good health,43.8
+E07000088,2,Good health,36.5
+E07000088,3,Fair health,14.4
+E07000088,4,Bad health,4.2
+E07000088,5,Very bad health,1
+E07000089,-8,Does not apply,0
+E07000089,1,Very good health,54.8
+E07000089,2,Good health,33.1
+E07000089,3,Fair health,9.3
+E07000089,4,Bad health,2.2
+E07000089,5,Very bad health,0.6
+E07000090,-8,Does not apply,0
+E07000090,1,Very good health,46.1
+E07000090,2,Good health,35.4
+E07000090,3,Fair health,13.4
+E07000090,4,Bad health,4
+E07000090,5,Very bad health,1.1
+E07000091,-8,Does not apply,0
+E07000091,1,Very good health,50.5
+E07000091,2,Good health,34.3
+E07000091,3,Fair health,11.3
+E07000091,4,Bad health,3
+E07000091,5,Very bad health,0.8
+E07000092,-8,Does not apply,0
+E07000092,1,Very good health,47.1
+E07000092,2,Good health,35.5
+E07000092,3,Fair health,13.1
+E07000092,4,Bad health,3.4
+E07000092,5,Very bad health,0.9
+E07000093,-8,Does not apply,0
+E07000093,1,Very good health,51
+E07000093,2,Good health,34.3
+E07000093,3,Fair health,11
+E07000093,4,Bad health,2.9
+E07000093,5,Very bad health,0.8
+E07000094,-8,Does not apply,0
+E07000094,1,Very good health,53.6
+E07000094,2,Good health,33.1
+E07000094,3,Fair health,10
+E07000094,4,Bad health,2.6
+E07000094,5,Very bad health,0.7
+E07000095,-8,Does not apply,0
+E07000095,1,Very good health,48.7
+E07000095,2,Good health,34.4
+E07000095,3,Fair health,12.3
+E07000095,4,Bad health,3.5
+E07000095,5,Very bad health,1
+E07000096,-8,Does not apply,0
+E07000096,1,Very good health,50.7
+E07000096,2,Good health,33.8
+E07000096,3,Fair health,11.5
+E07000096,4,Bad health,3.2
+E07000096,5,Very bad health,0.8
+E07000098,-8,Does not apply,0
+E07000098,1,Very good health,52.3
+E07000098,2,Good health,32.6
+E07000098,3,Fair health,11.1
+E07000098,4,Bad health,3.1
+E07000098,5,Very bad health,0.9
+E07000099,-8,Does not apply,0
+E07000099,1,Very good health,50.3
+E07000099,2,Good health,34.4
+E07000099,3,Fair health,11.5
+E07000099,4,Bad health,3
+E07000099,5,Very bad health,0.8
+E07000102,-8,Does not apply,0
+E07000102,1,Very good health,52.8
+E07000102,2,Good health,32.9
+E07000102,3,Fair health,10.7
+E07000102,4,Bad health,2.8
+E07000102,5,Very bad health,0.8
+E07000103,-8,Does not apply,0
+E07000103,1,Very good health,48.2
+E07000103,2,Good health,34.7
+E07000103,3,Fair health,12.4
+E07000103,4,Bad health,3.6
+E07000103,5,Very bad health,1
+E07000105,-8,Does not apply,0
+E07000105,1,Very good health,47.8
+E07000105,2,Good health,35
+E07000105,3,Fair health,12.6
+E07000105,4,Bad health,3.6
+E07000105,5,Very bad health,1
+E07000106,-8,Does not apply,0
+E07000106,1,Very good health,47.5
+E07000106,2,Good health,34.7
+E07000106,3,Fair health,12.8
+E07000106,4,Bad health,3.9
+E07000106,5,Very bad health,1.1
+E07000107,-8,Does not apply,0
+E07000107,1,Very good health,48.4
+E07000107,2,Good health,34.5
+E07000107,3,Fair health,12.6
+E07000107,4,Bad health,3.5
+E07000107,5,Very bad health,1
+E07000108,-8,Does not apply,0
+E07000108,1,Very good health,45.8
+E07000108,2,Good health,34.9
+E07000108,3,Fair health,13.6
+E07000108,4,Bad health,4.5
+E07000108,5,Very bad health,1.3
+E07000109,-8,Does not apply,0
+E07000109,1,Very good health,46.7
+E07000109,2,Good health,34.9
+E07000109,3,Fair health,13.2
+E07000109,4,Bad health,4.1
+E07000109,5,Very bad health,1.1
+E07000110,-8,Does not apply,0
+E07000110,1,Very good health,49.2
+E07000110,2,Good health,34.4
+E07000110,3,Fair health,12.1
+E07000110,4,Bad health,3.4
+E07000110,5,Very bad health,1
+E07000111,-8,Does not apply,0
+E07000111,1,Very good health,53.1
+E07000111,2,Good health,32.5
+E07000111,3,Fair health,10.7
+E07000111,4,Bad health,2.9
+E07000111,5,Very bad health,0.9
+E07000112,-8,Does not apply,0
+E07000112,1,Very good health,45.6
+E07000112,2,Good health,34.6
+E07000112,3,Fair health,14
+E07000112,4,Bad health,4.6
+E07000112,5,Very bad health,1.3
+E07000113,-8,Does not apply,0
+E07000113,1,Very good health,44.6
+E07000113,2,Good health,35.2
+E07000113,3,Fair health,14.4
+E07000113,4,Bad health,4.5
+E07000113,5,Very bad health,1.3
+E07000114,-8,Does not apply,0
+E07000114,1,Very good health,43.2
+E07000114,2,Good health,35.2
+E07000114,3,Fair health,14.9
+E07000114,4,Bad health,5.2
+E07000114,5,Very bad health,1.6
+E07000115,-8,Does not apply,0
+E07000115,1,Very good health,50.7
+E07000115,2,Good health,33.9
+E07000115,3,Fair health,11.4
+E07000115,4,Bad health,3.2
+E07000115,5,Very bad health,0.9
+E07000116,-8,Does not apply,0
+E07000116,1,Very good health,52.4
+E07000116,2,Good health,33
+E07000116,3,Fair health,10.9
+E07000116,4,Bad health,2.9
+E07000116,5,Very bad health,0.8
+E07000117,-8,Does not apply,0
+E07000117,1,Very good health,43.2
+E07000117,2,Good health,34
+E07000117,3,Fair health,15.4
+E07000117,4,Bad health,5.7
+E07000117,5,Very bad health,1.7
+E07000118,-8,Does not apply,0
+E07000118,1,Very good health,49.2
+E07000118,2,Good health,33.1
+E07000118,3,Fair health,12.7
+E07000118,4,Bad health,3.9
+E07000118,5,Very bad health,1.1
+E07000119,-8,Does not apply,0
+E07000119,1,Very good health,50.4
+E07000119,2,Good health,32.4
+E07000119,3,Fair health,12.3
+E07000119,4,Bad health,3.8
+E07000119,5,Very bad health,1.1
+E07000120,-8,Does not apply,0
+E07000120,1,Very good health,42.3
+E07000120,2,Good health,34.9
+E07000120,3,Fair health,15.4
+E07000120,4,Bad health,5.6
+E07000120,5,Very bad health,1.7
+E07000121,-8,Does not apply,0
+E07000121,1,Very good health,46.4
+E07000121,2,Good health,34.4
+E07000121,3,Fair health,13.6
+E07000121,4,Bad health,4.4
+E07000121,5,Very bad health,1.3
+E07000122,-8,Does not apply,0
+E07000122,1,Very good health,44.7
+E07000122,2,Good health,34.5
+E07000122,3,Fair health,14.6
+E07000122,4,Bad health,4.8
+E07000122,5,Very bad health,1.4
+E07000123,-8,Does not apply,0
+E07000123,1,Very good health,45.1
+E07000123,2,Good health,34
+E07000123,3,Fair health,14.5
+E07000123,4,Bad health,5
+E07000123,5,Very bad health,1.5
+E07000124,-8,Does not apply,0
+E07000124,1,Very good health,55.4
+E07000124,2,Good health,31
+E07000124,3,Fair health,10.3
+E07000124,4,Bad health,2.7
+E07000124,5,Very bad health,0.7
+E07000125,-8,Does not apply,0
+E07000125,1,Very good health,46.6
+E07000125,2,Good health,33.4
+E07000125,3,Fair health,13.8
+E07000125,4,Bad health,4.9
+E07000125,5,Very bad health,1.3
+E07000126,-8,Does not apply,0
+E07000126,1,Very good health,48.9
+E07000126,2,Good health,33.8
+E07000126,3,Fair health,12.5
+E07000126,4,Bad health,3.7
+E07000126,5,Very bad health,1
+E07000127,-8,Does not apply,0
+E07000127,1,Very good health,49.1
+E07000127,2,Good health,33
+E07000127,3,Fair health,12.5
+E07000127,4,Bad health,4.2
+E07000127,5,Very bad health,1.2
+E07000128,-8,Does not apply,0
+E07000128,1,Very good health,48.3
+E07000128,2,Good health,32.5
+E07000128,3,Fair health,13.3
+E07000128,4,Bad health,4.5
+E07000128,5,Very bad health,1.4
+E07000129,-8,Does not apply,0
+E07000129,1,Very good health,49.2
+E07000129,2,Good health,34.6
+E07000129,3,Fair health,12.1
+E07000129,4,Bad health,3.2
+E07000129,5,Very bad health,0.9
+E07000130,-8,Does not apply,0
+E07000130,1,Very good health,48
+E07000130,2,Good health,35.1
+E07000130,3,Fair health,12.5
+E07000130,4,Bad health,3.4
+E07000130,5,Very bad health,1
+E07000131,-8,Does not apply,0
+E07000131,1,Very good health,52.8
+E07000131,2,Good health,33.1
+E07000131,3,Fair health,10.6
+E07000131,4,Bad health,2.7
+E07000131,5,Very bad health,0.7
+E07000132,-8,Does not apply,0
+E07000132,1,Very good health,47.9
+E07000132,2,Good health,35.2
+E07000132,3,Fair health,12.5
+E07000132,4,Bad health,3.5
+E07000132,5,Very bad health,1
+E07000133,-8,Does not apply,0
+E07000133,1,Very good health,49.8
+E07000133,2,Good health,34.5
+E07000133,3,Fair health,12
+E07000133,4,Bad health,2.9
+E07000133,5,Very bad health,0.8
+E07000134,-8,Does not apply,0
+E07000134,1,Very good health,47.2
+E07000134,2,Good health,35.1
+E07000134,3,Fair health,12.9
+E07000134,4,Bad health,3.7
+E07000134,5,Very bad health,1.1
+E07000135,-8,Does not apply,0
+E07000135,1,Very good health,46.2
+E07000135,2,Good health,36.4
+E07000135,3,Fair health,12.8
+E07000135,4,Bad health,3.6
+E07000135,5,Very bad health,1
+E07000136,-8,Does not apply,0
+E07000136,1,Very good health,42.2
+E07000136,2,Good health,37.3
+E07000136,3,Fair health,14.7
+E07000136,4,Bad health,4.5
+E07000136,5,Very bad health,1.2
+E07000137,-8,Does not apply,0
+E07000137,1,Very good health,42.8
+E07000137,2,Good health,35
+E07000137,3,Fair health,15.4
+E07000137,4,Bad health,5.3
+E07000137,5,Very bad health,1.5
+E07000138,-8,Does not apply,0
+E07000138,1,Very good health,41.1
+E07000138,2,Good health,37
+E07000138,3,Fair health,15.5
+E07000138,4,Bad health,5.1
+E07000138,5,Very bad health,1.4
+E07000139,-8,Does not apply,0
+E07000139,1,Very good health,48.2
+E07000139,2,Good health,35
+E07000139,3,Fair health,12.4
+E07000139,4,Bad health,3.5
+E07000139,5,Very bad health,0.9
+E07000140,-8,Does not apply,0
+E07000140,1,Very good health,43.4
+E07000140,2,Good health,37.5
+E07000140,3,Fair health,14
+E07000140,4,Bad health,4.1
+E07000140,5,Very bad health,1.1
+E07000141,-8,Does not apply,0
+E07000141,1,Very good health,47.5
+E07000141,2,Good health,35.4
+E07000141,3,Fair health,12.6
+E07000141,4,Bad health,3.5
+E07000141,5,Very bad health,0.9
+E07000142,-8,Does not apply,0
+E07000142,1,Very good health,46.3
+E07000142,2,Good health,35.4
+E07000142,3,Fair health,13.3
+E07000142,4,Bad health,4
+E07000142,5,Very bad health,1
+E07000143,-8,Does not apply,0
+E07000143,1,Very good health,44.7
+E07000143,2,Good health,36.8
+E07000143,3,Fair health,13.6
+E07000143,4,Bad health,3.9
+E07000143,5,Very bad health,1
+E07000144,-8,Does not apply,0
+E07000144,1,Very good health,48.2
+E07000144,2,Good health,35.6
+E07000144,3,Fair health,12.2
+E07000144,4,Bad health,3.2
+E07000144,5,Very bad health,0.8
+E07000145,-8,Does not apply,0
+E07000145,1,Very good health,41.8
+E07000145,2,Good health,35.9
+E07000145,3,Fair health,15.6
+E07000145,4,Bad health,5.3
+E07000145,5,Very bad health,1.5
+E07000146,-8,Does not apply,0
+E07000146,1,Very good health,44.3
+E07000146,2,Good health,36.6
+E07000146,3,Fair health,13.9
+E07000146,4,Bad health,4.1
+E07000146,5,Very bad health,1.2
+E07000147,-8,Does not apply,0
+E07000147,1,Very good health,45.3
+E07000147,2,Good health,36
+E07000147,3,Fair health,13.8
+E07000147,4,Bad health,3.8
+E07000147,5,Very bad health,1.1
+E07000148,-8,Does not apply,0
+E07000148,1,Very good health,41.5
+E07000148,2,Good health,36.5
+E07000148,3,Fair health,15.6
+E07000148,4,Bad health,5.1
+E07000148,5,Very bad health,1.4
+E07000149,-8,Does not apply,0
+E07000149,1,Very good health,49
+E07000149,2,Good health,35
+E07000149,3,Fair health,12
+E07000149,4,Bad health,3.1
+E07000149,5,Very bad health,0.8
+E07000163,-8,Does not apply,0
+E07000163,1,Very good health,51.9
+E07000163,2,Good health,33.6
+E07000163,3,Fair health,11
+E07000163,4,Bad health,2.8
+E07000163,5,Very bad health,0.8
+E07000164,-8,Does not apply,0
+E07000164,1,Very good health,51.8
+E07000164,2,Good health,33.6
+E07000164,3,Fair health,10.9
+E07000164,4,Bad health,2.9
+E07000164,5,Very bad health,0.8
+E07000165,-8,Does not apply,0
+E07000165,1,Very good health,53
+E07000165,2,Good health,32.9
+E07000165,3,Fair health,10.6
+E07000165,4,Bad health,2.7
+E07000165,5,Very bad health,0.7
+E07000166,-8,Does not apply,0
+E07000166,1,Very good health,51.7
+E07000166,2,Good health,33.2
+E07000166,3,Fair health,11.3
+E07000166,4,Bad health,2.9
+E07000166,5,Very bad health,0.8
+E07000167,-8,Does not apply,0
+E07000167,1,Very good health,50
+E07000167,2,Good health,34.3
+E07000167,3,Fair health,11.8
+E07000167,4,Bad health,3
+E07000167,5,Very bad health,0.9
+E07000168,-8,Does not apply,0
+E07000168,1,Very good health,45
+E07000168,2,Good health,35.1
+E07000168,3,Fair health,13.9
+E07000168,4,Bad health,4.6
+E07000168,5,Very bad health,1.3
+E07000169,-8,Does not apply,0
+E07000169,1,Very good health,49.3
+E07000169,2,Good health,34.4
+E07000169,3,Fair health,12.1
+E07000169,4,Bad health,3.3
+E07000169,5,Very bad health,0.9
+E07000170,-8,Does not apply,0
+E07000170,1,Very good health,42.2
+E07000170,2,Good health,35
+E07000170,3,Fair health,15.7
+E07000170,4,Bad health,5.5
+E07000170,5,Very bad health,1.6
+E07000171,-8,Does not apply,0
+E07000171,1,Very good health,45.2
+E07000171,2,Good health,34.6
+E07000171,3,Fair health,14.4
+E07000171,4,Bad health,4.5
+E07000171,5,Very bad health,1.4
+E07000172,-8,Does not apply,0
+E07000172,1,Very good health,47.3
+E07000172,2,Good health,34.4
+E07000172,3,Fair health,13.3
+E07000172,4,Bad health,3.8
+E07000172,5,Very bad health,1.1
+E07000173,-8,Does not apply,0
+E07000173,1,Very good health,47
+E07000173,2,Good health,34.7
+E07000173,3,Fair health,13.2
+E07000173,4,Bad health,3.9
+E07000173,5,Very bad health,1.1
+E07000174,-8,Does not apply,0
+E07000174,1,Very good health,42.4
+E07000174,2,Good health,34.6
+E07000174,3,Fair health,15.7
+E07000174,4,Bad health,5.6
+E07000174,5,Very bad health,1.6
+E07000175,-8,Does not apply,0
+E07000175,1,Very good health,46
+E07000175,2,Good health,34.8
+E07000175,3,Fair health,13.7
+E07000175,4,Bad health,4.3
+E07000175,5,Very bad health,1.2
+E07000176,-8,Does not apply,0
+E07000176,1,Very good health,54
+E07000176,2,Good health,31.9
+E07000176,3,Fair health,10.4
+E07000176,4,Bad health,2.9
+E07000176,5,Very bad health,0.8
+E07000177,-8,Does not apply,0
+E07000177,1,Very good health,49.7
+E07000177,2,Good health,34.8
+E07000177,3,Fair health,11.6
+E07000177,4,Bad health,3.1
+E07000177,5,Very bad health,0.8
+E07000178,-8,Does not apply,0
+E07000178,1,Very good health,50
+E07000178,2,Good health,33.4
+E07000178,3,Fair health,12.1
+E07000178,4,Bad health,3.4
+E07000178,5,Very bad health,1
+E07000179,-8,Does not apply,0
+E07000179,1,Very good health,53.9
+E07000179,2,Good health,33
+E07000179,3,Fair health,10
+E07000179,4,Bad health,2.5
+E07000179,5,Very bad health,0.7
+E07000180,-8,Does not apply,0
+E07000180,1,Very good health,52.1
+E07000180,2,Good health,34
+E07000180,3,Fair health,10.7
+E07000180,4,Bad health,2.6
+E07000180,5,Very bad health,0.6
+E07000181,-8,Does not apply,0
+E07000181,1,Very good health,52.2
+E07000181,2,Good health,33.9
+E07000181,3,Fair health,10.6
+E07000181,4,Bad health,2.6
+E07000181,5,Very bad health,0.7
+E07000187,-8,Does not apply,0
+E07000187,1,Very good health,49.5
+E07000187,2,Good health,34.1
+E07000187,3,Fair health,12.1
+E07000187,4,Bad health,3.4
+E07000187,5,Very bad health,0.9
+E07000188,-8,Does not apply,0
+E07000188,1,Very good health,46.3
+E07000188,2,Good health,35.4
+E07000188,3,Fair health,13.1
+E07000188,4,Bad health,4
+E07000188,5,Very bad health,1.1
+E07000189,-8,Does not apply,0
+E07000189,1,Very good health,48.3
+E07000189,2,Good health,35
+E07000189,3,Fair health,12.3
+E07000189,4,Bad health,3.5
+E07000189,5,Very bad health,1
+E07000192,-8,Does not apply,0
+E07000192,1,Very good health,43.3
+E07000192,2,Good health,35.7
+E07000192,3,Fair health,14.7
+E07000192,4,Bad health,4.9
+E07000192,5,Very bad health,1.5
+E07000193,-8,Does not apply,0
+E07000193,1,Very good health,45.7
+E07000193,2,Good health,35.9
+E07000193,3,Fair health,13.4
+E07000193,4,Bad health,3.8
+E07000193,5,Very bad health,1.1
+E07000194,-8,Does not apply,0
+E07000194,1,Very good health,49.3
+E07000194,2,Good health,34.3
+E07000194,3,Fair health,12
+E07000194,4,Bad health,3.5
+E07000194,5,Very bad health,1
+E07000195,-8,Does not apply,0
+E07000195,1,Very good health,44.8
+E07000195,2,Good health,35.3
+E07000195,3,Fair health,13.9
+E07000195,4,Bad health,4.6
+E07000195,5,Very bad health,1.3
+E07000196,-8,Does not apply,0
+E07000196,1,Very good health,48.2
+E07000196,2,Good health,34.8
+E07000196,3,Fair health,12.4
+E07000196,4,Bad health,3.6
+E07000196,5,Very bad health,1
+E07000197,-8,Does not apply,0
+E07000197,1,Very good health,48.5
+E07000197,2,Good health,34.5
+E07000197,3,Fair health,12.4
+E07000197,4,Bad health,3.5
+E07000197,5,Very bad health,1
+E07000198,-8,Does not apply,0
+E07000198,1,Very good health,48.3
+E07000198,2,Good health,34.4
+E07000198,3,Fair health,12.4
+E07000198,4,Bad health,3.7
+E07000198,5,Very bad health,1.1
+E07000199,-8,Does not apply,0
+E07000199,1,Very good health,44.6
+E07000199,2,Good health,35.2
+E07000199,3,Fair health,14.3
+E07000199,4,Bad health,4.5
+E07000199,5,Very bad health,1.4
+E07000200,-8,Does not apply,0
+E07000200,1,Very good health,49.5
+E07000200,2,Good health,35
+E07000200,3,Fair health,11.7
+E07000200,4,Bad health,3
+E07000200,5,Very bad health,0.8
+E07000202,-8,Does not apply,0
+E07000202,1,Very good health,43.4
+E07000202,2,Good health,36.6
+E07000202,3,Fair health,14.5
+E07000202,4,Bad health,4.3
+E07000202,5,Very bad health,1.2
+E07000203,-8,Does not apply,0
+E07000203,1,Very good health,49.7
+E07000203,2,Good health,35.1
+E07000203,3,Fair health,11.5
+E07000203,4,Bad health,3
+E07000203,5,Very bad health,0.7
+E07000207,-8,Does not apply,0
+E07000207,1,Very good health,57.7
+E07000207,2,Good health,30.4
+E07000207,3,Fair health,9
+E07000207,4,Bad health,2.2
+E07000207,5,Very bad health,0.7
+E07000208,-8,Does not apply,0
+E07000208,1,Very good health,53.2
+E07000208,2,Good health,33.3
+E07000208,3,Fair health,10.3
+E07000208,4,Bad health,2.5
+E07000208,5,Very bad health,0.7
+E07000209,-8,Does not apply,0
+E07000209,1,Very good health,53.8
+E07000209,2,Good health,33
+E07000209,3,Fair health,9.9
+E07000209,4,Bad health,2.6
+E07000209,5,Very bad health,0.8
+E07000210,-8,Does not apply,0
+E07000210,1,Very good health,54.8
+E07000210,2,Good health,32.3
+E07000210,3,Fair health,9.7
+E07000210,4,Bad health,2.5
+E07000210,5,Very bad health,0.7
+E07000211,-8,Does not apply,0
+E07000211,1,Very good health,52.6
+E07000211,2,Good health,33.2
+E07000211,3,Fair health,10.7
+E07000211,4,Bad health,2.7
+E07000211,5,Very bad health,0.8
+E07000212,-8,Does not apply,0
+E07000212,1,Very good health,51.2
+E07000212,2,Good health,34.1
+E07000212,3,Fair health,11
+E07000212,4,Bad health,2.9
+E07000212,5,Very bad health,0.8
+E07000213,-8,Does not apply,0
+E07000213,1,Very good health,49.8
+E07000213,2,Good health,34.8
+E07000213,3,Fair health,11.5
+E07000213,4,Bad health,3
+E07000213,5,Very bad health,0.9
+E07000214,-8,Does not apply,0
+E07000214,1,Very good health,54.1
+E07000214,2,Good health,32.9
+E07000214,3,Fair health,10
+E07000214,4,Bad health,2.4
+E07000214,5,Very bad health,0.7
+E07000215,-8,Does not apply,0
+E07000215,1,Very good health,52.7
+E07000215,2,Good health,33.1
+E07000215,3,Fair health,10.6
+E07000215,4,Bad health,2.8
+E07000215,5,Very bad health,0.8
+E07000216,-8,Does not apply,0
+E07000216,1,Very good health,55.3
+E07000216,2,Good health,32.3
+E07000216,3,Fair health,9.5
+E07000216,4,Bad health,2.3
+E07000216,5,Very bad health,0.6
+E07000217,-8,Does not apply,0
+E07000217,1,Very good health,51.7
+E07000217,2,Good health,33.9
+E07000217,3,Fair health,10.8
+E07000217,4,Bad health,2.9
+E07000217,5,Very bad health,0.8
+E07000218,-8,Does not apply,0
+E07000218,1,Very good health,47
+E07000218,2,Good health,34.4
+E07000218,3,Fair health,13.3
+E07000218,4,Bad health,4.1
+E07000218,5,Very bad health,1.2
+E07000219,-8,Does not apply,0
+E07000219,1,Very good health,43.5
+E07000219,2,Good health,35.8
+E07000219,3,Fair health,14.7
+E07000219,4,Bad health,4.6
+E07000219,5,Very bad health,1.4
+E07000220,-8,Does not apply,0
+E07000220,1,Very good health,47.8
+E07000220,2,Good health,35.4
+E07000220,3,Fair health,12.4
+E07000220,4,Bad health,3.5
+E07000220,5,Very bad health,0.9
+E07000221,-8,Does not apply,0
+E07000221,1,Very good health,52.5
+E07000221,2,Good health,33.3
+E07000221,3,Fair health,10.6
+E07000221,4,Bad health,2.8
+E07000221,5,Very bad health,0.8
+E07000222,-8,Does not apply,0
+E07000222,1,Very good health,51.6
+E07000222,2,Good health,33.5
+E07000222,3,Fair health,11.1
+E07000222,4,Bad health,3
+E07000222,5,Very bad health,0.8
+E07000223,-8,Does not apply,0
+E07000223,1,Very good health,47
+E07000223,2,Good health,34.8
+E07000223,3,Fair health,13.1
+E07000223,4,Bad health,4
+E07000223,5,Very bad health,1.1
+E07000224,-8,Does not apply,0
+E07000224,1,Very good health,46.9
+E07000224,2,Good health,35.9
+E07000224,3,Fair health,12.7
+E07000224,4,Bad health,3.6
+E07000224,5,Very bad health,0.9
+E07000225,-8,Does not apply,0
+E07000225,1,Very good health,52.3
+E07000225,2,Good health,33.3
+E07000225,3,Fair health,10.7
+E07000225,4,Bad health,2.9
+E07000225,5,Very bad health,0.8
+E07000226,-8,Does not apply,0
+E07000226,1,Very good health,45.4
+E07000226,2,Good health,36
+E07000226,3,Fair health,13.5
+E07000226,4,Bad health,4
+E07000226,5,Very bad health,1.2
+E07000227,-8,Does not apply,0
+E07000227,1,Very good health,52.9
+E07000227,2,Good health,33.6
+E07000227,3,Fair health,10.2
+E07000227,4,Bad health,2.5
+E07000227,5,Very bad health,0.7
+E07000228,-8,Does not apply,0
+E07000228,1,Very good health,53.2
+E07000228,2,Good health,33.3
+E07000228,3,Fair health,10.2
+E07000228,4,Bad health,2.6
+E07000228,5,Very bad health,0.7
+E07000229,-8,Does not apply,0
+E07000229,1,Very good health,46.7
+E07000229,2,Good health,35.5
+E07000229,3,Fair health,13
+E07000229,4,Bad health,3.8
+E07000229,5,Very bad health,1.1
+E07000234,-8,Does not apply,0
+E07000234,1,Very good health,52.2
+E07000234,2,Good health,32.9
+E07000234,3,Fair health,10.9
+E07000234,4,Bad health,3
+E07000234,5,Very bad health,0.9
+E07000235,-8,Does not apply,0
+E07000235,1,Very good health,50.3
+E07000235,2,Good health,33.8
+E07000235,3,Fair health,11.7
+E07000235,4,Bad health,3.3
+E07000235,5,Very bad health,0.9
+E07000236,-8,Does not apply,0
+E07000236,1,Very good health,45.3
+E07000236,2,Good health,35.6
+E07000236,3,Fair health,13.7
+E07000236,4,Bad health,4.3
+E07000236,5,Very bad health,1.2
+E07000237,-8,Does not apply,0
+E07000237,1,Very good health,46.2
+E07000237,2,Good health,35.5
+E07000237,3,Fair health,13.2
+E07000237,4,Bad health,3.9
+E07000237,5,Very bad health,1.1
+E07000238,-8,Does not apply,0
+E07000238,1,Very good health,50
+E07000238,2,Good health,34.2
+E07000238,3,Fair health,11.6
+E07000238,4,Bad health,3.3
+E07000238,5,Very bad health,0.9
+E07000239,-8,Does not apply,0
+E07000239,1,Very good health,45.6
+E07000239,2,Good health,35.3
+E07000239,3,Fair health,13.5
+E07000239,4,Bad health,4.3
+E07000239,5,Very bad health,1.3
+E07000240,-8,Does not apply,0
+E07000240,1,Very good health,55.9
+E07000240,2,Good health,31.3
+E07000240,3,Fair health,9.6
+E07000240,4,Bad health,2.5
+E07000240,5,Very bad health,0.7
+E07000241,-8,Does not apply,0
+E07000241,1,Very good health,49.3
+E07000241,2,Good health,34.6
+E07000241,3,Fair health,11.9
+E07000241,4,Bad health,3.4
+E07000241,5,Very bad health,0.9
+E07000242,-8,Does not apply,0
+E07000242,1,Very good health,53.4
+E07000242,2,Good health,32.9
+E07000242,3,Fair health,10.4
+E07000242,4,Bad health,2.7
+E07000242,5,Very bad health,0.7
+E07000243,-8,Does not apply,0
+E07000243,1,Very good health,45.1
+E07000243,2,Good health,35.9
+E07000243,3,Fair health,13.8
+E07000243,4,Bad health,4.1
+E07000243,5,Very bad health,1.1
+E07000244,-8,Does not apply,0
+E07000244,1,Very good health,46.8
+E07000244,2,Good health,35.2
+E07000244,3,Fair health,13.1
+E07000244,4,Bad health,4
+E07000244,5,Very bad health,1
+E07000245,-8,Does not apply,0
+E07000245,1,Very good health,47.8
+E07000245,2,Good health,35.6
+E07000245,3,Fair health,12.3
+E07000245,4,Bad health,3.4
+E07000245,5,Very bad health,0.9
+E07000246,-8,Does not apply,0
+E07000246,1,Very good health,48.4
+E07000246,2,Good health,34.5
+E07000246,3,Fair health,12.5
+E07000246,4,Bad health,3.7
+E07000246,5,Very bad health,0.9
+E08000001,-8,Does not apply,0
+E08000001,1,Very good health,45.5
+E08000001,2,Good health,33.7
+E08000001,3,Fair health,14.1
+E08000001,4,Bad health,5.1
+E08000001,5,Very bad health,1.6
+E08000002,-8,Does not apply,0
+E08000002,1,Very good health,46.9
+E08000002,2,Good health,33.6
+E08000002,3,Fair health,13.7
+E08000002,4,Bad health,4.5
+E08000002,5,Very bad health,1.3
+E08000003,-8,Does not apply,0
+E08000003,1,Very good health,43.2
+E08000003,2,Good health,32.3
+E08000003,3,Fair health,15.8
+E08000003,4,Bad health,6.6
+E08000003,5,Very bad health,2.2
+E08000004,-8,Does not apply,0
+E08000004,1,Very good health,43.4
+E08000004,2,Good health,34
+E08000004,3,Fair health,15.5
+E08000004,4,Bad health,5.5
+E08000004,5,Very bad health,1.6
+E08000005,-8,Does not apply,0
+E08000005,1,Very good health,44.1
+E08000005,2,Good health,33.8
+E08000005,3,Fair health,15
+E08000005,4,Bad health,5.5
+E08000005,5,Very bad health,1.5
+E08000006,-8,Does not apply,0
+E08000006,1,Very good health,45.1
+E08000006,2,Good health,32.9
+E08000006,3,Fair health,14.6
+E08000006,4,Bad health,5.7
+E08000006,5,Very bad health,1.7
+E08000007,-8,Does not apply,0
+E08000007,1,Very good health,49.3
+E08000007,2,Good health,32.9
+E08000007,3,Fair health,12.5
+E08000007,4,Bad health,4
+E08000007,5,Very bad health,1.2
+E08000008,-8,Does not apply,0
+E08000008,1,Very good health,43.8
+E08000008,2,Good health,34.2
+E08000008,3,Fair health,15.1
+E08000008,4,Bad health,5.4
+E08000008,5,Very bad health,1.6
+E08000009,-8,Does not apply,0
+E08000009,1,Very good health,51.5
+E08000009,2,Good health,31.8
+E08000009,3,Fair health,11.8
+E08000009,4,Bad health,3.7
+E08000009,5,Very bad health,1.1
+E08000010,-8,Does not apply,0
+E08000010,1,Very good health,45.9
+E08000010,2,Good health,33.6
+E08000010,3,Fair health,14.2
+E08000010,4,Bad health,4.9
+E08000010,5,Very bad health,1.4
+E08000011,-8,Does not apply,0
+E08000011,1,Very good health,45.7
+E08000011,2,Good health,30.6
+E08000011,3,Fair health,14.7
+E08000011,4,Bad health,6.8
+E08000011,5,Very bad health,2.2
+E08000012,-8,Does not apply,0
+E08000012,1,Very good health,44.6
+E08000012,2,Good health,31.3
+E08000012,3,Fair health,14.9
+E08000012,4,Bad health,6.9
+E08000012,5,Very bad health,2.3
+E08000013,-8,Does not apply,0
+E08000013,1,Very good health,45.5
+E08000013,2,Good health,32.7
+E08000013,3,Fair health,14.4
+E08000013,4,Bad health,5.7
+E08000013,5,Very bad health,1.7
+E08000014,-8,Does not apply,0
+E08000014,1,Very good health,48.4
+E08000014,2,Good health,31.9
+E08000014,3,Fair health,13.3
+E08000014,4,Bad health,4.9
+E08000014,5,Very bad health,1.5
+E08000015,-8,Does not apply,0
+E08000015,1,Very good health,47.4
+E08000015,2,Good health,32.1
+E08000015,3,Fair health,13.6
+E08000015,4,Bad health,5.3
+E08000015,5,Very bad health,1.6
+E08000016,-8,Does not apply,0
+E08000016,1,Very good health,43.2
+E08000016,2,Good health,33.8
+E08000016,3,Fair health,15.6
+E08000016,4,Bad health,5.8
+E08000016,5,Very bad health,1.7
+E08000017,-8,Does not apply,0
+E08000017,1,Very good health,43.9
+E08000017,2,Good health,34.4
+E08000017,3,Fair health,14.8
+E08000017,4,Bad health,5.3
+E08000017,5,Very bad health,1.6
+E08000018,-8,Does not apply,0
+E08000018,1,Very good health,43.7
+E08000018,2,Good health,34.4
+E08000018,3,Fair health,14.8
+E08000018,4,Bad health,5.4
+E08000018,5,Very bad health,1.6
+E08000019,-8,Does not apply,0
+E08000019,1,Very good health,44.5
+E08000019,2,Good health,34.4
+E08000019,3,Fair health,14.5
+E08000019,4,Bad health,5.1
+E08000019,5,Very bad health,1.5
+E08000021,-8,Does not apply,0
+E08000021,1,Very good health,44.6
+E08000021,2,Good health,33
+E08000021,3,Fair health,15
+E08000021,4,Bad health,5.7
+E08000021,5,Very bad health,1.8
+E08000022,-8,Does not apply,0
+E08000022,1,Very good health,46.6
+E08000022,2,Good health,33.3
+E08000022,3,Fair health,14.2
+E08000022,4,Bad health,4.7
+E08000022,5,Very bad health,1.3
+E08000023,-8,Does not apply,0
+E08000023,1,Very good health,44.4
+E08000023,2,Good health,33.1
+E08000023,3,Fair health,15.1
+E08000023,4,Bad health,5.7
+E08000023,5,Very bad health,1.7
+E08000024,-8,Does not apply,0
+E08000024,1,Very good health,43.6
+E08000024,2,Good health,33.1
+E08000024,3,Fair health,15.6
+E08000024,4,Bad health,6
+E08000024,5,Very bad health,1.8
+E08000025,-8,Does not apply,0
+E08000025,1,Very good health,42.3
+E08000025,2,Good health,34.6
+E08000025,3,Fair health,15.7
+E08000025,4,Bad health,5.6
+E08000025,5,Very bad health,1.8
+E08000026,-8,Does not apply,0
+E08000026,1,Very good health,44.5
+E08000026,2,Good health,34.9
+E08000026,3,Fair health,14.3
+E08000026,4,Bad health,4.8
+E08000026,5,Very bad health,1.5
+E08000027,-8,Does not apply,0
+E08000027,1,Very good health,43.6
+E08000027,2,Good health,35.9
+E08000027,3,Fair health,14.5
+E08000027,4,Bad health,4.7
+E08000027,5,Very bad health,1.3
+E08000028,-8,Does not apply,0
+E08000028,1,Very good health,40.8
+E08000028,2,Good health,35.1
+E08000028,3,Fair health,16.4
+E08000028,4,Bad health,6
+E08000028,5,Very bad health,1.8
+E08000029,-8,Does not apply,0
+E08000029,1,Very good health,49.5
+E08000029,2,Good health,33.7
+E08000029,3,Fair health,12
+E08000029,4,Bad health,3.7
+E08000029,5,Very bad health,1.1
+E08000030,-8,Does not apply,0
+E08000030,1,Very good health,41.9
+E08000030,2,Good health,35.4
+E08000030,3,Fair health,15.6
+E08000030,4,Bad health,5.4
+E08000030,5,Very bad health,1.7
+E08000031,-8,Does not apply,0
+E08000031,1,Very good health,42.1
+E08000031,2,Good health,35.3
+E08000031,3,Fair health,15.7
+E08000031,4,Bad health,5.4
+E08000031,5,Very bad health,1.6
+E08000032,-8,Does not apply,0
+E08000032,1,Very good health,42.4
+E08000032,2,Good health,35.7
+E08000032,3,Fair health,15.1
+E08000032,4,Bad health,5.2
+E08000032,5,Very bad health,1.6
+E08000033,-8,Does not apply,0
+E08000033,1,Very good health,46
+E08000033,2,Good health,34.6
+E08000033,3,Fair health,13.7
+E08000033,4,Bad health,4.4
+E08000033,5,Very bad health,1.3
+E08000034,-8,Does not apply,0
+E08000034,1,Very good health,44.8
+E08000034,2,Good health,35.2
+E08000034,3,Fair health,14.1
+E08000034,4,Bad health,4.6
+E08000034,5,Very bad health,1.3
+E08000035,-8,Does not apply,0
+E08000035,1,Very good health,46.6
+E08000035,2,Good health,34.2
+E08000035,3,Fair health,13.5
+E08000035,4,Bad health,4.4
+E08000035,5,Very bad health,1.3
+E08000036,-8,Does not apply,0
+E08000036,1,Very good health,44.1
+E08000036,2,Good health,34.5
+E08000036,3,Fair health,14.7
+E08000036,4,Bad health,5.2
+E08000036,5,Very bad health,1.5
+E08000037,-8,Does not apply,0
+E08000037,1,Very good health,44.1
+E08000037,2,Good health,33.6
+E08000037,3,Fair health,15.1
+E08000037,4,Bad health,5.5
+E08000037,5,Very bad health,1.7
+E09000001,-8,Does not apply,0
+E09000001,1,Very good health,56.6
+E09000001,2,Good health,31.2
+E09000001,3,Fair health,9.1
+E09000001,4,Bad health,2.4
+E09000001,5,Very bad health,0.7
+E09000002,-8,Does not apply,0
+E09000002,1,Very good health,43.3
+E09000002,2,Good health,34.2
+E09000002,3,Fair health,15.2
+E09000002,4,Bad health,5.6
+E09000002,5,Very bad health,1.7
+E09000003,-8,Does not apply,0
+E09000003,1,Very good health,51.5
+E09000003,2,Good health,32.3
+E09000003,3,Fair health,11.5
+E09000003,4,Bad health,3.5
+E09000003,5,Very bad health,1.2
+E09000004,-8,Does not apply,0
+E09000004,1,Very good health,48.7
+E09000004,2,Good health,34.3
+E09000004,3,Fair health,12.3
+E09000004,4,Bad health,3.6
+E09000004,5,Very bad health,1.1
+E09000005,-8,Does not apply,0
+E09000005,1,Very good health,47.2
+E09000005,2,Good health,33.8
+E09000005,3,Fair health,13.4
+E09000005,4,Bad health,4.2
+E09000005,5,Very bad health,1.4
+E09000006,-8,Does not apply,0
+E09000006,1,Very good health,52.4
+E09000006,2,Good health,33
+E09000006,3,Fair health,10.7
+E09000006,4,Bad health,3
+E09000006,5,Very bad health,0.9
+E09000007,-8,Does not apply,0
+E09000007,1,Very good health,51.3
+E09000007,2,Good health,30
+E09000007,3,Fair health,12.2
+E09000007,4,Bad health,4.9
+E09000007,5,Very bad health,1.6
+E09000008,-8,Does not apply,0
+E09000008,1,Very good health,47.9
+E09000008,2,Good health,34.5
+E09000008,3,Fair health,12.7
+E09000008,4,Bad health,3.8
+E09000008,5,Very bad health,1.2
+E09000009,-8,Does not apply,0
+E09000009,1,Very good health,48.2
+E09000009,2,Good health,33.6
+E09000009,3,Fair health,12.9
+E09000009,4,Bad health,4
+E09000009,5,Very bad health,1.3
+E09000010,-8,Does not apply,0
+E09000010,1,Very good health,46.9
+E09000010,2,Good health,34.2
+E09000010,3,Fair health,13.2
+E09000010,4,Bad health,4.3
+E09000010,5,Very bad health,1.4
+E09000011,-8,Does not apply,0
+E09000011,1,Very good health,47.3
+E09000011,2,Good health,32.9
+E09000011,3,Fair health,13.6
+E09000011,4,Bad health,4.7
+E09000011,5,Very bad health,1.5
+E09000012,-8,Does not apply,0
+E09000012,1,Very good health,48.5
+E09000012,2,Good health,29.5
+E09000012,3,Fair health,14.1
+E09000012,4,Bad health,5.7
+E09000012,5,Very bad health,2.2
+E09000013,-8,Does not apply,0
+E09000013,1,Very good health,53.8
+E09000013,2,Good health,29
+E09000013,3,Fair health,11.5
+E09000013,4,Bad health,4.2
+E09000013,5,Very bad health,1.5
+E09000014,-8,Does not apply,0
+E09000014,1,Very good health,48.5
+E09000014,2,Good health,32.2
+E09000014,3,Fair health,12.9
+E09000014,4,Bad health,4.7
+E09000014,5,Very bad health,1.7
+E09000015,-8,Does not apply,0
+E09000015,1,Very good health,48.6
+E09000015,2,Good health,35
+E09000015,3,Fair health,12
+E09000015,4,Bad health,3.4
+E09000015,5,Very bad health,1.1
+E09000016,-8,Does not apply,0
+E09000016,1,Very good health,48.2
+E09000016,2,Good health,34.8
+E09000016,3,Fair health,12.3
+E09000016,4,Bad health,3.6
+E09000016,5,Very bad health,1.1
+E09000017,-8,Does not apply,0
+E09000017,1,Very good health,47.4
+E09000017,2,Good health,35.2
+E09000017,3,Fair health,12.7
+E09000017,4,Bad health,3.6
+E09000017,5,Very bad health,1.1
+E09000018,-8,Does not apply,0
+E09000018,1,Very good health,47.3
+E09000018,2,Good health,34.4
+E09000018,3,Fair health,13
+E09000018,4,Bad health,4.1
+E09000018,5,Very bad health,1.3
+E09000019,-8,Does not apply,0
+E09000019,1,Very good health,48.6
+E09000019,2,Good health,29.8
+E09000019,3,Fair health,13.7
+E09000019,4,Bad health,5.8
+E09000019,5,Very bad health,2.1
+E09000020,-8,Does not apply,0
+E09000020,1,Very good health,58
+E09000020,2,Good health,26.9
+E09000020,3,Fair health,10.1
+E09000020,4,Bad health,3.7
+E09000020,5,Very bad health,1.2
+E09000021,-8,Does not apply,0
+E09000021,1,Very good health,51.3
+E09000021,2,Good health,33.5
+E09000021,3,Fair health,11.2
+E09000021,4,Bad health,3
+E09000021,5,Very bad health,0.9
+E09000022,-8,Does not apply,0
+E09000022,1,Very good health,49.9
+E09000022,2,Good health,31.2
+E09000022,3,Fair health,13
+E09000022,4,Bad health,4.5
+E09000022,5,Very bad health,1.5
+E09000023,-8,Does not apply,0
+E09000023,1,Very good health,47.7
+E09000023,2,Good health,32.9
+E09000023,3,Fair health,13.5
+E09000023,4,Bad health,4.5
+E09000023,5,Very bad health,1.4
+E09000024,-8,Does not apply,0
+E09000024,1,Very good health,51
+E09000024,2,Good health,33.1
+E09000024,3,Fair health,11.6
+E09000024,4,Bad health,3.3
+E09000024,5,Very bad health,1
+E09000025,-8,Does not apply,0
+E09000025,1,Very good health,42.9
+E09000025,2,Good health,33.9
+E09000025,3,Fair health,15.6
+E09000025,4,Bad health,5.6
+E09000025,5,Very bad health,2
+E09000026,-8,Does not apply,0
+E09000026,1,Very good health,46.4
+E09000026,2,Good health,35.4
+E09000026,3,Fair health,13.1
+E09000026,4,Bad health,3.9
+E09000026,5,Very bad health,1.3
+E09000027,-8,Does not apply,0
+E09000027,1,Very good health,57.6
+E09000027,2,Good health,30
+E09000027,3,Fair health,9.1
+E09000027,4,Bad health,2.6
+E09000027,5,Very bad health,0.8
+E09000028,-8,Does not apply,0
+E09000028,1,Very good health,49.4
+E09000028,2,Good health,31.1
+E09000028,3,Fair health,13.3
+E09000028,4,Bad health,4.6
+E09000028,5,Very bad health,1.6
+E09000029,-8,Does not apply,0
+E09000029,1,Very good health,48.9
+E09000029,2,Good health,35
+E09000029,3,Fair health,11.8
+E09000029,4,Bad health,3.4
+E09000029,5,Very bad health,1
+E09000030,-8,Does not apply,0
+E09000030,1,Very good health,42.5
+E09000030,2,Good health,32
+E09000030,3,Fair health,15.9
+E09000030,4,Bad health,7
+E09000030,5,Very bad health,2.5
+E09000031,-8,Does not apply,0
+E09000031,1,Very good health,45.9
+E09000031,2,Good health,34.3
+E09000031,3,Fair health,13.7
+E09000031,4,Bad health,4.6
+E09000031,5,Very bad health,1.5
+E09000032,-8,Does not apply,0
+E09000032,1,Very good health,54.4
+E09000032,2,Good health,29.7
+E09000032,3,Fair health,11.3
+E09000032,4,Bad health,3.6
+E09000032,5,Very bad health,1.1
+E09000033,-8,Does not apply,0
+E09000033,1,Very good health,52.8
+E09000033,2,Good health,29.4
+E09000033,3,Fair health,11.6
+E09000033,4,Bad health,4.4
+E09000033,5,Very bad health,1.8
+W06000001,-8,Does not apply,0
+W06000001,1,Very good health,50.7
+W06000001,2,Good health,31.2
+W06000001,3,Fair health,13.1
+W06000001,4,Bad health,3.9
+W06000001,5,Very bad health,1.1
+W06000002,-8,Does not apply,0
+W06000002,1,Very good health,51.5
+W06000002,2,Good health,31.2
+W06000002,3,Fair health,12.4
+W06000002,4,Bad health,3.7
+W06000002,5,Very bad health,1
+W06000003,-8,Does not apply,0
+W06000003,1,Very good health,48.2
+W06000003,2,Good health,32.6
+W06000003,3,Fair health,13.5
+W06000003,4,Bad health,4.4
+W06000003,5,Very bad health,1.3
+W06000004,-8,Does not apply,0
+W06000004,1,Very good health,47
+W06000004,2,Good health,32.4
+W06000004,3,Fair health,14.1
+W06000004,4,Bad health,4.9
+W06000004,5,Very bad health,1.6
+W06000005,-8,Does not apply,0
+W06000005,1,Very good health,48.3
+W06000005,2,Good health,33.3
+W06000005,3,Fair health,13
+W06000005,4,Bad health,4.2
+W06000005,5,Very bad health,1.3
+W06000006,-8,Does not apply,0
+W06000006,1,Very good health,45.5
+W06000006,2,Good health,34.2
+W06000006,3,Fair health,14.2
+W06000006,4,Bad health,4.8
+W06000006,5,Very bad health,1.3
+W06000008,-8,Does not apply,0
+W06000008,1,Very good health,48
+W06000008,2,Good health,32.8
+W06000008,3,Fair health,13.7
+W06000008,4,Bad health,4.2
+W06000008,5,Very bad health,1.3
+W06000009,-8,Does not apply,0
+W06000009,1,Very good health,47.5
+W06000009,2,Good health,32.9
+W06000009,3,Fair health,13.6
+W06000009,4,Bad health,4.6
+W06000009,5,Very bad health,1.4
+W06000010,-8,Does not apply,0
+W06000010,1,Very good health,47.2
+W06000010,2,Good health,31.5
+W06000010,3,Fair health,14.4
+W06000010,4,Bad health,5.2
+W06000010,5,Very bad health,1.7
+W06000011,-8,Does not apply,0
+W06000011,1,Very good health,47.7
+W06000011,2,Good health,31.1
+W06000011,3,Fair health,13.9
+W06000011,4,Bad health,5.5
+W06000011,5,Very bad health,1.9
+W06000012,-8,Does not apply,0
+W06000012,1,Very good health,45.9
+W06000012,2,Good health,30.5
+W06000012,3,Fair health,15.1
+W06000012,4,Bad health,6.4
+W06000012,5,Very bad health,2.1
+W06000013,-8,Does not apply,0
+W06000013,1,Very good health,46.3
+W06000013,2,Good health,31.8
+W06000013,3,Fair health,14.6
+W06000013,4,Bad health,5.5
+W06000013,5,Very bad health,1.8
+W06000014,-8,Does not apply,0
+W06000014,1,Very good health,49.2
+W06000014,2,Good health,32.3
+W06000014,3,Fair health,12.8
+W06000014,4,Bad health,4.3
+W06000014,5,Very bad health,1.4
+W06000015,-8,Does not apply,0
+W06000015,1,Very good health,46.7
+W06000015,2,Good health,32.6
+W06000015,3,Fair health,13.8
+W06000015,4,Bad health,5.3
+W06000015,5,Very bad health,1.7
+W06000016,-8,Does not apply,0
+W06000016,1,Very good health,44
+W06000016,2,Good health,32
+W06000016,3,Fair health,15.7
+W06000016,4,Bad health,6.3
+W06000016,5,Very bad health,2
+W06000018,-8,Does not apply,0
+W06000018,1,Very good health,43.6
+W06000018,2,Good health,32.3
+W06000018,3,Fair health,15.7
+W06000018,4,Bad health,6.4
+W06000018,5,Very bad health,2
+W06000019,-8,Does not apply,0
+W06000019,1,Very good health,41.5
+W06000019,2,Good health,32.7
+W06000019,3,Fair health,16.5
+W06000019,4,Bad health,7
+W06000019,5,Very bad health,2.3
+W06000020,-8,Does not apply,0
+W06000020,1,Very good health,42.7
+W06000020,2,Good health,34.2
+W06000020,3,Fair health,15.4
+W06000020,4,Bad health,6
+W06000020,5,Very bad health,1.8
+W06000021,-8,Does not apply,0
+W06000021,1,Very good health,49.7
+W06000021,2,Good health,33.4
+W06000021,3,Fair health,12
+W06000021,4,Bad health,3.8
+W06000021,5,Very bad health,1.1
+W06000022,-8,Does not apply,0
+W06000022,1,Very good health,44.6
+W06000022,2,Good health,33.6
+W06000022,3,Fair health,14.6
+W06000022,4,Bad health,5.5
+W06000022,5,Very bad health,1.7
+W06000023,-8,Does not apply,0
+W06000023,1,Very good health,48.6
+W06000023,2,Good health,33.5
+W06000023,3,Fair health,12.9
+W06000023,4,Bad health,3.9
+W06000023,5,Very bad health,1.1
+W06000024,-8,Does not apply,0
+W06000024,1,Very good health,44.6
+W06000024,2,Good health,30.6
+W06000024,3,Fair health,15.3
+W06000024,4,Bad health,7.1
+W06000024,5,Very bad health,2.4
