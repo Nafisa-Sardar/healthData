@@ -1,0 +1,334 @@
+code,category,value,areaName
+E06000001,popDensity,985.5,Hartlepool
+E06000002,popDensity,2671.2,Middlesbrough
+E06000003,popDensity,557.1,Redcar and Cleveland
+E06000004,popDensity,959.3,Stockton-on-Tees
+E06000005,popDensity,545.9,Darlington
+E06000006,popDensity,1624.3,Halton
+E06000011,popDensity,142.4,East Riding of Yorkshire
+E06000012,popDensity,815,North East Lincolnshire
+E06000014,popDensity,745.8,York
+E06000015,popDensity,3349.5,Derby
+E06000017,popDensity,107.5,Rutland
+E06000018,popDensity,4337.6,Nottingham
+E06000019,popDensity,85.8,Herefordshire
+E06000020,popDensity,639.1,Telford and Wrekin
+E06000021,popDensity,2764.8,Stoke-on-Trent
+E06000023,popDensity,4308.1,Bristol
+E06000024,popDensity,579.9,North Somerset
+E06000026,popDensity,3314.8,Plymouth
+E06000027,popDensity,2215.6,Torbay
+E06000031,popDensity,628.1,Peterborough
+E06000032,popDensity,5196,Luton
+E06000035,popDensity,1444.2,Medway
+E06000036,popDensity,1139.2,Bracknell Forest
+E06000037,popDensity,229.3,West Berkshire
+E06000038,popDensity,4312.6,Reading
+E06000039,popDensity,4871.5,Slough
+E06000040,popDensity,781.1,Windsor and Maidenhead
+E06000041,popDensity,991.7,Wokingham
+E06000042,popDensity,930.1,Milton Keynes
+E06000043,popDensity,3345.3,Brighton and Hove
+E06000044,popDensity,5149.8,Portsmouth
+E06000045,popDensity,4990.5,Southampton
+E06000047,popDensity,234.5,County Durham
+E06000050,popDensity,388.2,Cheshire West and Chester
+E06000051,popDensity,101.2,Shropshire
+E06000053,popDensity,125.9,Isles of Scilly
+E06000054,popDensity,156.8,Wiltshire
+E06000055,popDensity,388.8,Bedford
+E06000056,popDensity,411.2,Central Bedfordshire
+E06000057,popDensity,63.9,Northumberland
+E06000058,popDensity,2469.2,Bournemouth Christchurch and Poole
+E06000059,popDensity,152.4,Dorset
+E06000060,popDensity,353.4,Buckinghamshire
+E06000061,popDensity,364.4,North Northamptonshire
+E06000062,popDensity,309.1,West Northamptonshire
+E07000008,popDensity,3579.2,Cambridge
+E07000009,popDensity,134.8,East Cambridgeshire
+E07000010,popDensity,187.5,Fenland
+E07000012,popDensity,179.8,South Cambridgeshire
+E07000026,popDensity,77.4,Allerdale
+E07000027,popDensity,865.3,Barrow-in-Furness
+E07000028,popDensity,106,Carlisle
+E07000029,popDensity,91.7,Copeland
+E07000030,popDensity,25.5,Eden
+E07000031,popDensity,68,South Lakeland
+E07000032,popDensity,475.6,Amber Valley
+E07000033,popDensity,500.7,Bolsover
+E07000034,popDensity,1568.4,Chesterfield
+E07000035,popDensity,90.3,Derbyshire Dales
+E07000036,popDensity,1029.9,Erewash
+E07000037,popDensity,168.7,High Peak
+E07000038,popDensity,370.1,North East Derbyshire
+E07000041,popDensity,2780,Exeter
+E07000042,popDensity,90.8,Mid Devon
+E07000043,popDensity,90.8,North Devon
+E07000045,popDensity,200.1,Teignbridge
+E07000046,popDensity,69.2,Torridge
+E07000047,popDensity,49.2,West Devon
+E07000061,popDensity,2302.6,Eastbourne
+E07000062,popDensity,3053.9,Hastings
+E07000063,popDensity,342,Lewes
+E07000067,popDensity,253.8,Braintree
+E07000068,popDensity,503.2,Brentwood
+E07000069,popDensity,2005.4,Castle Point
+E07000070,popDensity,535.9,Chelmsford
+E07000071,popDensity,587.2,Colchester
+E07000072,popDensity,398.2,Epping Forest
+E07000074,popDensity,185,Maldon
+E07000076,popDensity,440.9,Tendring
+E07000079,popDensity,78,Cotswold
+E07000080,popDensity,165.4,Forest of Dean
+E07000082,popDensity,263,Stroud
+E07000084,popDensity,292.1,Basingstoke and Deane
+E07000085,popDensity,244.4,East Hampshire
+E07000086,popDensity,1712.1,Eastleigh
+E07000087,popDensity,1542.1,Fareham
+E07000088,popDensity,3229.8,Gosport
+E07000089,popDensity,461.8,Hart
+E07000091,popDensity,233.7,New Forest
+E07000092,popDensity,2554.9,Rushmoor
+E07000093,popDensity,207.9,Test Valley
+E07000094,popDensity,192.8,Winchester
+E07000095,popDensity,1924.9,Broxbourne
+E07000096,popDensity,729.8,Dacorum
+E07000098,popDensity,1065.9,Hertsmere
+E07000099,popDensity,354.9,North Hertfordshire
+E07000102,popDensity,1055.8,Three Rivers
+E07000106,popDensity,509.9,Canterbury
+E07000107,popDensity,1605.3,Dartford
+E07000108,popDensity,369.2,Dover
+E07000109,popDensity,1079.9,Gravesham
+E07000110,popDensity,446.9,Maidstone
+E07000111,popDensity,326.4,Sevenoaks
+E07000113,popDensity,406.2,Swale
+E07000114,popDensity,1356.9,Thanet
+E07000115,popDensity,550.6,Tonbridge and Malling
+E07000116,popDensity,348,Tunbridge Wells
+E07000117,popDensity,855,Burnley
+E07000118,popDensity,580.6,Chorley
+E07000121,popDensity,252.1,Lancaster
+E07000122,popDensity,565.4,Pendle
+E07000123,popDensity,1039,Preston
+E07000125,popDensity,513.4,Rossendale
+E07000126,popDensity,981.4,South Ribble
+E07000127,popDensity,338.8,West Lancashire
+E07000128,popDensity,396.7,Wyre
+E07000129,popDensity,788.9,Blaby
+E07000130,popDensity,659.2,Charnwood
+E07000131,popDensity,165,Harborough
+E07000132,popDensity,382.2,Hinckley and Bosworth
+E07000133,popDensity,107.5,Melton
+E07000134,popDensity,374.8,North West Leicestershire
+E07000135,popDensity,2454.9,Oadby and Wigston
+E07000137,popDensity,80.5,East Lindsey
+E07000138,popDensity,2908.9,Lincoln
+E07000139,popDensity,128,North Kesteven
+E07000140,popDensity,126.8,South Holland
+E07000141,popDensity,152.1,South Kesteven
+E07000143,popDensity,108.4,Breckland
+E07000144,popDensity,238.6,Broadland
+E07000145,popDensity,572.2,Great Yarmouth
+E07000146,popDensity,107.2,Kings Lynn and West Norfolk
+E07000148,popDensity,3688.2,Norwich
+E07000149,popDensity,156.4,South Norfolk
+E07000163,popDensity,48.4,Craven
+E07000164,popDensity,69.2,Hambleton
+E07000165,popDensity,124.4,Harrogate
+E07000166,popDensity,37.7,Richmondshire
+E07000167,popDensity,36.3,Ryedale
+E07000169,popDensity,153.5,Selby
+E07000170,popDensity,1152.8,Ashfield
+E07000171,popDensity,184.7,Bassetlaw
+E07000172,popDensity,1385,Broxtowe
+E07000173,popDensity,977.4,Gedling
+E07000175,popDensity,188.8,Newark and Sherwood
+E07000176,popDensity,291,Rushcliffe
+E07000177,popDensity,273.5,Cherwell
+E07000178,popDensity,3553,Oxford
+E07000179,popDensity,219.7,South Oxfordshire
+E07000180,popDensity,240.5,Vale of White Horse
+E07000181,popDensity,159.9,West Oxfordshire
+E07000187,popDensity,157,Mendip
+E07000188,popDensity,222.2,Sedgemoor
+E07000189,popDensity,180,South Somerset
+E07000192,popDensity,1274.3,Cannock Chase
+E07000193,popDensity,320.5,East Staffordshire
+E07000194,popDensity,321.3,Lichfield
+E07000195,popDensity,584.5,Newcastle-under-Lyme
+E07000196,popDensity,271.2,South Staffordshire
+E07000197,popDensity,228.8,Stafford
+E07000199,popDensity,2549.6,Tamworth
+E07000200,popDensity,155.5,Babergh
+E07000203,popDensity,117.9,Mid Suffolk
+E07000207,popDensity,1459.6,Elmbridge
+E07000208,popDensity,2375.4,Epsom and Ewell
+E07000209,popDensity,530.2,Guildford
+E07000210,popDensity,338.3,Mole Valley
+E07000211,popDensity,1168.1,Reigate and Banstead
+E07000212,popDensity,1128.6,Runnymede
+E07000213,popDensity,2293.9,Spelthorne
+E07000215,popDensity,354.1,Tandridge
+E07000216,popDensity,371.5,Waverley
+E07000217,popDensity,1634.4,Woking
+E07000218,popDensity,228.8,North Warwickshire
+E07000219,popDensity,1699.7,Nuneaton and Bedworth
+E07000220,popDensity,325.7,Rugby
+E07000221,popDensity,137.8,Stratford-on-Avon
+E07000222,popDensity,524.8,Warwick
+E07000223,popDensity,1534.4,Adur
+E07000224,popDensity,746.1,Arun
+E07000225,popDensity,157.8,Chichester
+E07000226,popDensity,2634.9,Crawley
+E07000227,popDensity,276.8,Horsham
+E07000228,popDensity,456.8,Mid Sussex
+E07000229,popDensity,3423.7,Worthing
+E07000234,popDensity,457.1,Bromsgrove
+E07000235,popDensity,137.7,Malvern Hills
+E07000236,popDensity,1604.4,Redditch
+E07000237,popDensity,3121.4,Worcester
+E07000238,popDensity,199.7,Wychavon
+E07000239,popDensity,520,Wyre Forest
+E07000240,popDensity,919.3,St Albans
+E07000241,popDensity,925,Welwyn Hatfield
+E07000242,popDensity,315.7,East Hertfordshire
+E07000243,popDensity,3444.8,Stevenage
+E07000244,popDensity,195.1,East Suffolk
+E07000245,popDensity,173.9,West Suffolk
+E07000246,popDensity,132.6,Somerset West and Taunton
+E08000002,popDensity,1948.6,Bury
+E08000003,popDensity,4772.7,Manchester
+E08000004,popDensity,1700.5,Oldham
+E08000005,popDensity,1415.6,Rochdale
+E08000006,popDensity,2777.2,Salford
+E08000007,popDensity,2338.3,Stockport
+E08000008,popDensity,2239.7,Tameside
+E08000009,popDensity,2216.7,Trafford
+E08000010,popDensity,1750,Wigan
+E08000011,popDensity,1787,Knowsley
+E08000012,popDensity,4346.1,Liverpool
+E08000013,popDensity,1343.6,St. Helens
+E08000014,popDensity,1783.4,Sefton
+E08000015,popDensity,1989.7,Wirral
+E08000016,popDensity,743.3,Barnsley
+E08000017,popDensity,542.4,Doncaster
+E08000018,popDensity,927.7,Rotherham
+E08000021,popDensity,2646.1,Newcastle upon Tyne
+E08000022,popDensity,2538.6,North Tyneside
+E08000023,popDensity,2294.2,South Tyneside
+E08000024,popDensity,1994.6,Sunderland
+E08000025,popDensity,4275.4,Birmingham
+E08000026,popDensity,3500.7,Coventry
+E08000027,popDensity,3302.4,Dudley
+E08000028,popDensity,3994.9,Sandwell
+E08000029,popDensity,1212.9,Solihull
+E08000030,popDensity,2733.1,Walsall
+E08000031,popDensity,3797.9,Wolverhampton
+E08000032,popDensity,1491.2,Bradford
+E08000033,popDensity,567.8,Calderdale
+E08000034,popDensity,1060.3,Kirklees
+E08000035,popDensity,1471.7,Leeds
+E08000036,popDensity,1043.6,Wakefield
+E08000037,popDensity,1378,Gateshead
+E09000001,popDensity,2975,City of London
+E09000002,popDensity,6065.8,Barking and Dagenham
+E09000003,popDensity,4488.7,Barnet
+E09000004,popDensity,4070.7,Bexley
+E09000005,popDensity,7859.6,Brent
+E09000006,popDensity,2197.7,Bromley
+E09000007,popDensity,9640.9,Camden
+E09000008,popDensity,4516,Croydon
+E09000009,popDensity,6611.6,Ealing
+E09000010,popDensity,4082.5,Enfield
+E09000011,popDensity,6108.6,Greenwich
+E09000013,popDensity,11161.1,Hammersmith and Fulham
+E09000014,popDensity,8930.2,Haringey
+E09000015,popDensity,5175.4,Harrow
+E09000016,popDensity,2332.3,Havering
+E09000017,popDensity,2644,Hillingdon
+E09000018,popDensity,5148,Hounslow
+E09000019,popDensity,14574.9,Islington
+E09000020,popDensity,11816.5,Kensington and Chelsea
+E09000021,popDensity,4512.1,Kingston upon Thames
+E09000022,popDensity,11839.1,Lambeth
+E09000023,popDensity,8551.5,Lewisham
+E09000024,popDensity,5721.6,Merton
+E09000025,popDensity,9690.1,Newham
+E09000026,popDensity,5501.9,Redbridge
+E09000027,popDensity,3401.9,Richmond upon Thames
+E09000028,popDensity,10659,Southwark
+E09000029,popDensity,4781,Sutton
+E09000030,popDensity,15702.9,Tower Hamlets
+E09000031,popDensity,7173.3,Waltham Forest
+E09000032,popDensity,9560,Wandsworth
+E09000033,popDensity,9514.2,Westminster
+W06000001,popDensity,96.7,Isle of Anglesey
+W06000002,popDensity,46.3,Gwynedd
+W06000003,popDensity,101.9,Conwy
+W06000004,popDensity,114.5,Denbighshire
+W06000005,popDensity,352.3,Flintshire
+W06000006,popDensity,268.2,Wrexham
+W06000008,popDensity,40,Ceredigion
+W06000009,popDensity,76.2,Pembrokeshire
+W06000010,popDensity,79.3,Carmarthenshire
+W06000011,popDensity,631.5,Swansea
+W06000012,popDensity,322.5,Neath Port Talbot
+W06000013,popDensity,580.1,Bridgend
+W06000014,popDensity,398.4,Vale of Glamorgan
+W06000015,popDensity,2571.3,Cardiff
+W06000016,popDensity,560.3,Rhondda Cynon Taf
+W06000018,popDensity,634.2,Caerphilly
+W06000019,popDensity,615.1,Blaenau Gwent
+W06000020,popDensity,734.4,Torfaen
+W06000021,popDensity,109.5,Monmouthshire
+W06000022,popDensity,838.1,Newport
+W06000023,popDensity,25.7,Powys
+W06000024,popDensity,528.2,Merthyr Tydfil
+E06000007,popDensity,1168,Warrington
+E06000008,popDensity,1129.4,Blackburn with Darwen
+E06000009,popDensity,4041.1,Blackpool
+E06000010,popDensity,3730.1,Kingston upon Hull
+E06000013,popDensity,200.4,North Lincolnshire
+E06000016,popDensity,5027.2,Leicester
+E06000022,popDensity,559.2,Bath and North East Somerset
+E06000025,popDensity,584.3,South Gloucestershire
+E06000030,popDensity,1014.4,Swindon
+E06000033,popDensity,4335.6,Southend-on-Sea
+E06000034,popDensity,1074.2,Thurrock
+E06000046,popDensity,370,Isle of Wight
+E06000049,popDensity,341.9,Cheshire East
+E06000052,popDensity,160.9,Cornwall
+E07000011,popDensity,199.6,Huntingdonshire
+E07000039,popDensity,317.1,South Derbyshire
+E07000040,popDensity,185.2,East Devon
+E07000044,popDensity,100,South Hams
+E07000064,popDensity,182.8,Rother
+E07000065,popDensity,192.2,Wealden
+E07000066,popDensity,1705.1,Basildon
+E07000073,popDensity,3056.1,Harlow
+E07000078,popDensity,2549.3,Cheltenham
+E07000081,popDensity,3266.6,Gloucester
+E07000083,popDensity,229,Tewkesbury
+E07000090,popDensity,2228.4,Havant
+E07000103,popDensity,4772.2,Watford
+E07000112,popDensity,307.5,Folkestone and Hythe
+E07000119,popDensity,491.2,Fylde
+E07000120,popDensity,1126.6,Hyndburn
+E07000124,popDensity,105.6,Ribble Valley
+E07000136,popDensity,193.7,Boston
+E07000142,popDensity,82.3,West Lindsey
+E07000147,popDensity,106.6,North Norfolk
+E07000168,popDensity,133.2,Scarborough
+E07000174,popDensity,1440.2,Mansfield
+E07000198,popDensity,166.4,Staffordshire Moorlands
+E07000202,popDensity,3534.3,Ipswich
+E07000214,popDensity,951.2,Surrey Heath
+E08000001,popDensity,2117,Bolton
+E08000019,popDensity,1512.5,Sheffield
+E09000012,popDensity,13593.3,Hackney
+E07000075,popDensity,512.7,Rochford
+E07000077,popDensity,142.5,Uttlesford
+E07000105,popDensity,228.6,Ashford
+E06000053,popDensity,125.9,Isles of Scilly
+E09000001,popDensity,2975,City of London
